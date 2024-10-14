@@ -1,6 +1,6 @@
 ---
 title: page 1
-layout: home
+layout: page 1
 color_scheme: dark
 ---
 
