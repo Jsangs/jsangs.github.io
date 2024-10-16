@@ -10,4 +10,4 @@ aux_links:
 nav_external_links:
   - title: Documentación
     url: https://just-the-docs.github.io/just-the-docs
-    opens_in_new_tab: false
+    opens_in_new_tab: true
