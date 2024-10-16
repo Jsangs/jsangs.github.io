@@ -1,7 +1,7 @@
 ---
 title: page 1
 layout: home
-color_scheme: dark
+nav_order: 3
 ---
 
 <h1>Holissss</h1>
