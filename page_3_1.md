@@ -1,5 +1,6 @@
 ---
 title: page 3.1
 layout: home
-color_scheme: dark
+parent: page 3
+nav_order: 2
 ---
