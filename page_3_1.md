@@ -15,3 +15,6 @@ DRAM. Esta memoria es la que incorporaban los ordenadores personales hasta la ll
 <h2>DDRAM</h2>
 <h3>Double Data Rate RAM, RAM de doble tasa de transferencia de datos, conocida normalmente como DDR</h3>
 Son memorias SDRAM como las anteriores, pero que cuentan con la ventaja de que permiten la transferencia de datos por dos canales distintos simultáneamente en un mismo ciclo de reloj. También se denominan memorias PC1600, PC4800, etc. Se presentan en módulos de 184 contactos. (200 en el caso de las memorias para portátiles).
+
+<h2>DDR2 y DDR3</h2>
+Estas memorias son básicamente iguales que las DDR, pero mediante técnicas mejoradas de fabricación, consiguen aumentar la velocidad de transferencia de datos, aunque suele ser a costa de subir la latencia. Se presentan en módulos de 240 contactos, aunque los anclajes son distintos entre las DDR2 y las DDR3.
