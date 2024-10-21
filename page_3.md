@@ -9,10 +9,10 @@ has_toc: false
 Son los soportes de almacenamiento masivo de manera permanente, son soportes de lectura, escritura y no volátiles.
 Algunas ejemplos son:
 <li>
-<il>-Discos duros</il>
--Disquetes
--cintas DAT
--DVD
+<il>Discos duros</il>
+<il>Disquetes</il>
+<il>Cintas DAT</il>
+<il>DVD</il>
 </li>
 
 Son lentas comparadas a las memorias internas, esotr se debe por estar formadas componentes elctrónicos de baja velocidad y componentes mecánicos.
