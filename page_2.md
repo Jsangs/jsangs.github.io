@@ -1,5 +1,5 @@
 ---
-title: page 2
+title: L/E
 layout: home
 nav_order: 1
 ---
