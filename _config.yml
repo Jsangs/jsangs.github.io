@@ -8,8 +8,8 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
 nav_external_links:
-  - title: Documentación
-    url: https://just-the-docs.github.io/just-the-docs
+  - title: Memoria VRAM
+    url: https://es.wikipedia.org/wiki/Memoria_gr%C3%A1fica_de_acceso_aleatorio
     opens_in_new_tab: true
 
 logo: "/jsangs.github.io/descarga.jpg"
