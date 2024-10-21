@@ -19,3 +19,5 @@ color_scheme: dark
 $link-color: $blue-000;
 
 logo: "descarga.jpg"
+
+favicon_ico: "descarga.jpg"
