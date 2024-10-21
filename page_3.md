@@ -8,15 +8,17 @@ has_toc: false
 <h2>Externa</h2>
 Son los soportes de almacenamiento masivo de manera permanente, son soportes de lectura, escritura y no volátiles.
 Algunas ejemplos son:
--Discos duros
+<li>
+<il>-Discos duros</il>
 -Disquetes
 -cintas DAT
 -DVD
+</li>
 
 Son lentas comparadas a las memorias internas, esotr se debe por estar formadas componentes elctrónicos de baja velocidad y componentes mecánicos.
 
 <h2>Interna</h2>
-existen dos tipos principales de memorias principales:
+Existen dos tipos principales de memorias principales:
 <h3>RAM</h3>
 <h4>Random Access Memory-Memoria de acceso aleatorio</h4>
 En ella es posible almacenar y modificar información, y es lo que se conoce como memoria principal o central. Es una memoria volátil y de lectura escritura.
