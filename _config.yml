@@ -1,4 +1,4 @@
-@import "./color_schemes/dark";
+#@import "./color_schemes/dark";
 
 title: LMSX
 description: A starter template for a Jeykll site using the Just the Docs theme!
@@ -16,7 +16,7 @@ nav_external_links:
 
 color_scheme: dark
 
-$link-color: $blue-000;
+$link-color: $green-000;
 
 logo: "descarga.jpg"
 
