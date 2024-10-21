@@ -8,16 +8,15 @@ has_toc: false
 <h2>Externa</h2>
 Son los soportes de almacenamiento masivo de manera permanente, son soportes de lectura, escritura y no volátiles.
 Algunas ejemplos son:
-<li>
-<il>Discos duros</il>
+
+-Discos duros
   
-<il>Disquetes</il>
+-Disquetes
 
-<il>Cintas DAT</il>
+-Cintas DAT
 
-<il>DVD</il>
+-DVD
 
-</li>
 
 Son lentas comparadas a las memorias internas, esotr se debe por estar formadas componentes elctrónicos de baja velocidad y componentes mecánicos.
 
