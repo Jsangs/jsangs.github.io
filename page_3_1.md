@@ -1,6 +1,6 @@
 ---
 title: RAM
 layout: home
-parent: page 3
+parent: como trabajan
 ---
 <h1>Memoria RAM</h1>
