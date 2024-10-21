@@ -10,9 +10,13 @@ Son los soportes de almacenamiento masivo de manera permanente, son soportes de 
 Algunas ejemplos son:
 <li>
 <il>Discos duros</il>
+  
 <il>Disquetes</il>
+
 <il>Cintas DAT</il>
+
 <il>DVD</il>
+
 </li>
 
 Son lentas comparadas a las memorias internas, esotr se debe por estar formadas componentes elctrónicos de baja velocidad y componentes mecánicos.
