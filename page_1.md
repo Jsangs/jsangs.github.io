@@ -4,6 +4,5 @@ layout: home
 nav_order: 1
 ---
 
-<h1>Holissss</h1>
-Tehe
+<h1>memoria según la persistencia de la información</h1>
 
