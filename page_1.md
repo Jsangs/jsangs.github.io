@@ -1,5 +1,5 @@
 ---
-title: persistencia
+title: Persistencia
 layout: home
 nav_order: 1
 ---
