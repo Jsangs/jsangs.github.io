@@ -20,4 +20,4 @@ $link-color: $green-000;
 
 logo: "descarga.jpg"
 
-favicon_ico: "descarga.jpg"
+favicon_ico: "favicon.ico"
