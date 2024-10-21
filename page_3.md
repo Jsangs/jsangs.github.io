@@ -1,5 +1,5 @@
 ---
-title: page 3
+title: como trabajan
 layout: home
 nav_order: 1
 has_toc: false
