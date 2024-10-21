@@ -1,6 +1,6 @@
 ---
 title: ROM
 layout: home
-parent: page 3
+parent: como trabajan
 ---
 <h1>Memorias tipo ROM</h1>
